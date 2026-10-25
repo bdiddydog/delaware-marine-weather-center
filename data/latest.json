@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-25T12:03:01.281907+00:00",
+  "checked_at_utc": "2026-10-25T13:00:57.607998+00:00",
   "zones": {
     "ANZ430": {
       "source": "https://api.weather.gov/zones/forecast/ANZ430/forecast",
@@ -418,15 +418,7 @@
   "alerts": {
     "ok": true,
     "source": "https://api.weather.gov/alerts/active?area=DE",
-    "items": [
-      {
-        "event": "Frost Advisory",
-        "headline": "Frost Advisory issued October 25 at 3:25AM EDT until October 25 at 9:00AM EDT by NWS Mount Holly NJ",
-        "area": "New Castle; Kent; Inland Sussex; Kent; Queen Anne's; Talbot; Caroline; Delaware; Philadelphia; Eastern Chester; Eastern Montgomery; Lower Bucks",
-        "expires": "2026-10-25T09:00:00-04:00",
-        "url": "http://www.weather.gov"
-      }
-    ]
+    "items": []
   },
   "buoys": {
     "44009": {
@@ -436,7 +428,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 25 11 40  50  5.0  8.0    MM    MM    MM  MM 1034.9  15.0    MM   8.4   MM   MM    MM"
+      "latest": "2026 10 25 12 30  40  6.0  7.0    MM    MM    MM  MM 1035.1  14.9    MM   8.5   MM   MM    MM"
     },
     "44014": {
       "ok": true,
@@ -445,7 +437,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 25 11 40  MM   MM   MM   2.5    MM   6.1  76     MM    MM  17.9    MM   MM   MM    MM"
+      "latest": "2026 10 25 12 30  MM   MM   MM    MM    MM    MM  MM     MM    MM  17.9    MM   MM   MM    MM"
     },
     "44025": {
       "ok": true,
@@ -454,7 +446,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 25 10 40  MM   MM   MM   1.0    12   6.7 114     MM    MM  16.0    MM   MM   MM    MM"
+      "latest": "2026 10 25 12 10  MM   MM   MM   0.9     8   6.5 106     MM    MM  16.0    MM   MM   MM    MM"
     },
     "LWSD1": {
       "ok": true,
@@ -463,7 +455,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 25 11 30  40  4.1  4.6    MM    MM    MM  MM 1035.4  14.6  14.3    MM   MM   MM    MM"
+      "latest": "2026 10 25 12 18  50  2.6  3.1    MM    MM    MM  MM 1035.8    MM  14.6    MM   MM   MM    MM"
     }
   }
 }
