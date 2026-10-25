@@ -1,5 +1,11 @@
 name: Marine NOAA Update
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'scripts/**'
+      - '.github/workflows/marine.yml'
   schedule:
     - cron: '17 */3 * * *'
   workflow_dispatch:
