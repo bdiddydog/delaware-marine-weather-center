@@ -37,6 +37,22 @@ try:
 except Exception as exc:
     out['alerts'] = {'ok': False, 'source': url, 'error': str(exc)[:200]}
 
+# Marine zone-specific alerts: state-only alerts do not reliably cover coastal waters.
+out['marine_alerts'] = {}
+for zone in out['zones']:
+    url = 'https://api.weather.gov/alerts/active?zone=' + zone
+    try:
+        raw = json.loads(fetch(url))
+        events = []
+        for feature in raw.get('features', []):
+            p = feature.get('properties', {})
+            events.append({'event':p.get('event'), 'headline':p.get('headline'),
+                           'severity':p.get('severity'), 'expires':p.get('expires'),
+                           'url':p.get('web') or feature.get('id')})
+        out['marine_alerts'][zone] = {'ok':True,'items':events,'source':url}
+    except Exception as exc:
+        out['marine_alerts'][zone] = {'ok':False,'items':[],'error':str(exc)[:200],'source':url}
+
 for station in ('44009','44014','44025','LWSD1'):
     url = f'https://www.ndbc.noaa.gov/data/realtime2/{station}.txt'
     try:
