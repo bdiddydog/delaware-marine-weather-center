@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-25T13:41:42.755600+00:00",
+  "checked_at_utc": "2026-10-25T13:49:56.503761+00:00",
   "zones": {
     "ANZ430": {
       "source": "https://api.weather.gov/zones/forecast/ANZ430/forecast",
@@ -446,7 +446,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 25 12 40  MM   MM   MM   0.9     8   6.3 107     MM    MM  16.0    MM   MM   MM    MM"
+      "latest": "2026 10 25 13 10  MM   MM   MM   0.9    11   6.2  91     MM    MM  16.0    MM   MM   MM    MM"
     },
     "LWSD1": {
       "ok": true,
