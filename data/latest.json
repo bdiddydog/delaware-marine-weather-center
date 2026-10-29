@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-28T20:15:23.237319+00:00",
+  "checked_at_utc": "2026-10-29T00:54:15.997905+00:00",
   "zones": {
     "ANZ430": {
       "source": "https://api.weather.gov/zones/forecast/ANZ430/forecast",
@@ -260,8 +260,8 @@
     "ANZ630": {
       "source": "https://api.weather.gov/zones/forecast/ANZ630/forecast",
       "ok": true,
-      "issued": "2026-10-28T15:51:00-04:00",
-      "updated": "2026-10-28T15:51:00-04:00",
+      "issued": "2026-10-28T17:51:00-04:00",
+      "updated": "2026-10-28T17:51:00-04:00",
       "periods": [
         {
           "number": 1,
@@ -324,8 +324,8 @@
     "ANZ631": {
       "source": "https://api.weather.gov/zones/forecast/ANZ631/forecast",
       "ok": true,
-      "issued": "2026-10-28T15:51:00-04:00",
-      "updated": "2026-10-28T15:51:00-04:00",
+      "issued": "2026-10-28T17:51:00-04:00",
+      "updated": "2026-10-28T17:51:00-04:00",
       "periods": [
         {
           "number": 1,
@@ -388,8 +388,8 @@
     "ANZ632": {
       "source": "https://api.weather.gov/zones/forecast/ANZ632/forecast",
       "ok": true,
-      "issued": "2026-10-28T15:51:00-04:00",
-      "updated": "2026-10-28T15:51:00-04:00",
+      "issued": "2026-10-28T17:51:00-04:00",
+      "updated": "2026-10-28T17:51:00-04:00",
       "periods": [
         {
           "number": 1,
@@ -463,7 +463,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 28 19 50 100  5.0  6.0    MM    MM    MM  MM 1028.8  17.5    MM  12.5   MM   MM    MM"
+      "latest": "2026 10 29 00 30 100  4.0  5.0    MM    MM    MM  MM 1028.3  17.2  17.4  12.6   MM   MM    MM"
     },
     "44014": {
       "ok": true,
@@ -472,7 +472,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 28 19 50  MM   MM   MM   1.7     8   5.2  99     MM    MM    MM    MM   MM   MM    MM"
+      "latest": "2026 10 29 00 30  MM   MM   MM    MM    MM    MM  MM     MM    MM  18.3    MM   MM   MM    MM"
     },
     "44025": {
       "ok": true,
@@ -490,7 +490,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 28 19 30  70  6.2  7.7    MM    MM    MM  MM 1028.9  17.1  16.0    MM   MM   MM    MM"
+      "latest": "2026 10 29 00 00 150  1.0  1.0    MM    MM    MM  MM 1028.6  15.6  16.0    MM   MM +0.0    MM"
     }
   },
   "marine_alerts": {
