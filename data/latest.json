@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-30T22:17:43.235659+00:00",
+  "checked_at_utc": "2026-10-31T05:37:36.874958+00:00",
   "zones": {
     "ANZ430": {
       "source": "https://api.weather.gov/zones/forecast/ANZ430/forecast",
@@ -260,58 +260,63 @@
     "ANZ630": {
       "source": "https://api.weather.gov/zones/forecast/ANZ630/forecast",
       "ok": true,
-      "issued": "2026-10-30T15:21:00-04:00",
-      "updated": "2026-10-30T15:21:00-04:00",
+      "issued": "2026-10-30T21:55:00-04:00",
+      "updated": "2026-10-30T21:55:00-04:00",
       "periods": [
         {
           "number": 1,
-          "name": "through 7 Pm",
-          "detailedForecast": "NW winds 10 to 15 kt. Waves 1 to 2 ft."
+          "name": "Overnight",
+          "detailedForecast": "N winds 15 to 20 kt with gusts up to 25 kt. Waves 2 to 3 ft."
         },
         {
           "number": 2,
-          "name": "Tonight",
-          "detailedForecast": "N winds 10 to 15 kt, increasing to 15 to 20 kt in the late evening and overnight. Gusts up to 25 kt. Waves 2 to 3 ft."
+          "name": "Sat",
+          "detailedForecast": "N winds 15 to 20 kt with gusts up to 25 kt, diminishing to 5 to 10 kt with gusts up to 15 kt. Waves 2 to 3 ft."
         },
         {
           "number": 3,
-          "name": "Sat",
-          "detailedForecast": "N winds 15 to 20 kt with gusts up to 25 kt, diminishing to 10 to 15 kt in the afternoon. Waves 2 to 3 ft."
-        },
-        {
-          "number": 4,
           "name": "Sat Night",
           "detailedForecast": "NE winds 5 to 10 kt. Waves 1 foot."
         },
         {
-          "number": 5,
+          "number": 4,
           "name": "Sun",
           "detailedForecast": "NE winds 5 to 10 kt. Waves 1 foot."
         },
         {
-          "number": 6,
+          "number": 5,
           "name": "Sun Night",
           "detailedForecast": "E winds 5 kt. Waves 1 foot."
         },
         {
-          "number": 7,
+          "number": 6,
           "name": "Mon",
           "detailedForecast": "E winds 5 kt. Waves 1 foot."
         },
         {
-          "number": 8,
+          "number": 7,
           "name": "Mon Night",
           "detailedForecast": "E winds 5 kt. Waves 1 foot."
         },
         {
-          "number": 9,
+          "number": 8,
           "name": "Tue",
           "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
         },
         {
-          "number": 10,
+          "number": 9,
           "name": "Tue Night",
           "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
+        },
+        {
+          "number": 10,
+          "name": "Wed",
+          "detailedForecast": "E winds 5 to 10 kt, increasing to 10 to 15 kt in the afternoon. Waves 1 foot."
+        },
+        {
+          "number": 11,
+          "name": "Wed Night",
+          "detailedForecast": "E winds 10 to 15 kt. Waves 1 foot. A chance of showers after midnight."
         }
       ],
       "forecast": null
@@ -319,58 +324,63 @@
     "ANZ631": {
       "source": "https://api.weather.gov/zones/forecast/ANZ631/forecast",
       "ok": true,
-      "issued": "2026-10-30T15:21:00-04:00",
-      "updated": "2026-10-30T15:21:00-04:00",
+      "issued": "2026-10-30T21:55:00-04:00",
+      "updated": "2026-10-30T21:55:00-04:00",
       "periods": [
         {
           "number": 1,
-          "name": "through 7 Pm",
-          "detailedForecast": "N winds 5 to 10 kt with gusts up to 15 kt. Waves 1 foot."
+          "name": "Overnight",
+          "detailedForecast": "N winds 15 to 20 kt with gusts up to 25 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
           "number": 2,
-          "name": "Tonight",
-          "detailedForecast": "N winds 10 kt with gusts up to 15 kt, increasing to 15 to 20 kt with gusts up to 25 kt in the late evening and overnight. Waves 3 to 4 ft, occasionally to 5 ft."
+          "name": "Sat",
+          "detailedForecast": "NE winds 15 to 20 kt with gusts up to 25 kt, becoming N 5 to 10 kt with gusts up to 15 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
           "number": 3,
-          "name": "Sat",
-          "detailedForecast": "N winds 15 to 20 kt, diminishing to 10 to 15 kt in the afternoon. Gusts up to 25 kt. Waves 3 to 4 ft, occasionally to 5 ft."
-        },
-        {
-          "number": 4,
           "name": "Sat Night",
           "detailedForecast": "NE winds 5 to 10 kt. Waves 1 to 2 ft."
         },
         {
-          "number": 5,
+          "number": 4,
           "name": "Sun",
           "detailedForecast": "NE winds 5 to 10 kt. Waves 1 foot."
         },
         {
-          "number": 6,
+          "number": 5,
           "name": "Sun Night",
           "detailedForecast": "E winds 5 kt. Waves 1 foot."
         },
         {
-          "number": 7,
+          "number": 6,
           "name": "Mon",
-          "detailedForecast": "E winds 5 kt. Waves 1 foot."
+          "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
+        },
+        {
+          "number": 7,
+          "name": "Mon Night",
+          "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
         },
         {
           "number": 8,
-          "name": "Mon Night",
-          "detailedForecast": "E winds 5 kt. Waves 1 foot."
-        },
-        {
-          "number": 9,
           "name": "Tue",
           "detailedForecast": "E winds 5 to 10 kt with gusts up to 15 kt. Waves 1 foot."
         },
         {
-          "number": 10,
+          "number": 9,
           "name": "Tue Night",
           "detailedForecast": "E winds 5 to 10 kt. Gusts up to 15 kt in the evening. Waves 1 foot."
+        },
+        {
+          "number": 10,
+          "name": "Wed",
+          "detailedForecast": "E winds 5 to 10 kt, increasing to 10 to 15 kt in the afternoon. Gusts up to 20 kt. Waves 1 foot."
+        },
+        {
+          "number": 11,
+          "name": "Wed Night",
+          "detailedForecast": "E winds 10 to 15 kt with gusts up to 20 kt. Waves 1 foot. A chance of showers after midnight."
         }
       ],
       "forecast": null
@@ -378,58 +388,63 @@
     "ANZ632": {
       "source": "https://api.weather.gov/zones/forecast/ANZ632/forecast",
       "ok": true,
-      "issued": "2026-10-30T15:21:00-04:00",
-      "updated": "2026-10-30T15:21:00-04:00",
+      "issued": "2026-10-30T21:55:00-04:00",
+      "updated": "2026-10-30T21:55:00-04:00",
       "periods": [
         {
           "number": 1,
-          "name": "through 7 Pm",
-          "detailedForecast": "N winds 5 to 10 kt. Waves 1 foot."
+          "name": "Overnight",
+          "detailedForecast": "N winds 15 to 20 kt with gusts up to 25 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
           "number": 2,
-          "name": "Tonight",
-          "detailedForecast": "N winds 5 to 10 kt with gusts up to 15 kt, increasing to 15 to 20 kt with gusts up to 25 kt in the late evening and overnight. Waves 3 to 4 ft, occasionally to 5 ft."
+          "name": "Sat",
+          "detailedForecast": "NE winds 15 to 20 kt with gusts up to 25 kt, becoming N 5 to 10 kt with gusts up to 15 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
           "number": 3,
-          "name": "Sat",
-          "detailedForecast": "NE winds 15 to 20 kt, becoming N 10 to 15 kt in the afternoon. Gusts up to 25 kt. Waves 3 to 4 ft, occasionally to 5 ft."
-        },
-        {
-          "number": 4,
           "name": "Sat Night",
           "detailedForecast": "NE winds 5 to 10 kt with gusts up to 15 kt. Waves 1 to 2 ft."
         },
         {
-          "number": 5,
+          "number": 4,
           "name": "Sun",
           "detailedForecast": "NE winds 5 to 10 kt. Gusts up to 15 kt in the morning. Waves 1 to 2 ft."
         },
         {
-          "number": 6,
+          "number": 5,
           "name": "Sun Night",
           "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
         },
         {
-          "number": 7,
+          "number": 6,
           "name": "Mon",
           "detailedForecast": "E winds 5 to 10 kt. Gusts up to 15 kt in the afternoon. Waves 1 foot."
         },
         {
-          "number": 8,
+          "number": 7,
           "name": "Mon Night",
           "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
         },
         {
-          "number": 9,
+          "number": 8,
           "name": "Tue",
           "detailedForecast": "NE winds 5 to 10 kt with gusts up to 15 kt. Waves 1 foot."
         },
         {
-          "number": 10,
+          "number": 9,
           "name": "Tue Night",
           "detailedForecast": "E winds 10 kt with gusts up to 15 kt. Waves 1 foot."
+        },
+        {
+          "number": 10,
+          "name": "Wed",
+          "detailedForecast": "E winds 10 to 15 kt with gusts up to 20 kt. Waves 2 to 3 ft."
+        },
+        {
+          "number": 11,
+          "name": "Wed Night",
+          "detailedForecast": "E winds 10 to 15 kt with gusts up to 20 kt. Waves 2 to 3 ft. A chance of showers after midnight."
         }
       ],
       "forecast": null
@@ -448,7 +463,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 30 21 50 340  5.0  6.0    MM    MM    MM  MM 1019.7  18.9  17.3  13.3   MM   MM    MM"
+      "latest": "2026 10 31 05 00  10 11.0 14.0    MM    MM    MM  MM 1026.5  14.8  17.4   7.3   MM +2.4    MM"
     },
     "44014": {
       "ok": true,
@@ -457,7 +472,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 30 21 50  MM   MM   MM   1.0     8   6.8 123     MM    MM    MM    MM   MM   MM    MM"
+      "latest": "2026 10 31 05 10  MM   MM   MM   1.1    MM   4.4 110     MM    MM  18.6    MM   MM   MM    MM"
     },
     "44025": {
       "ok": true,
@@ -466,7 +481,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 30 21 40  MM   MM   MM   0.8     3   3.7 312     MM    MM  16.3    MM   MM   MM    MM"
+      "latest": "2026 10 31 04 40  MM   MM   MM   1.1     5   3.9 302     MM    MM  16.1    MM   MM   MM    MM"
     },
     "LWSD1": {
       "ok": true,
@@ -475,7 +490,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 10 30 21 30 350  6.7  7.2    MM    MM    MM  MM 1019.6  19.5  16.6    MM   MM   MM    MM"
+      "latest": "2026 10 31 04 48  20 11.8 13.9    MM    MM    MM  MM 1027.3    MM    MM    MM   MM   MM    MM"
     }
   },
   "marine_alerts": {
@@ -484,9 +499,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued October 30 at 12:57PM EDT until October 31 at 2:00AM EDT by NWS Mount Holly NJ",
+          "headline": "Small Craft Advisory issued October 31 at 1:34AM EDT until October 31 at 2:00AM EDT by NWS Mount Holly NJ",
           "severity": "Minor",
-          "expires": "2026-10-31T02:00:00-04:00",
+          "expires": "2026-10-31T02:45:00-04:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -497,9 +512,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued October 30 at 12:57PM EDT until October 31 at 2:00AM EDT by NWS Mount Holly NJ",
+          "headline": "Small Craft Advisory issued October 31 at 1:34AM EDT until October 31 at 4:00AM EDT by NWS Mount Holly NJ",
           "severity": "Minor",
-          "expires": "2026-10-31T02:00:00-04:00",
+          "expires": "2026-10-31T04:00:00-04:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -510,9 +525,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued October 30 at 12:57PM EDT until October 31 at 2:00AM EDT by NWS Mount Holly NJ",
+          "headline": "Small Craft Advisory issued October 31 at 1:34AM EDT until October 31 at 4:00AM EDT by NWS Mount Holly NJ",
           "severity": "Minor",
-          "expires": "2026-10-31T02:00:00-04:00",
+          "expires": "2026-10-31T04:00:00-04:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -523,9 +538,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued October 30 at 12:57PM EDT until October 31 at 2:00AM EDT by NWS Mount Holly NJ",
+          "headline": "Small Craft Advisory issued October 31 at 1:34AM EDT until October 31 at 4:00AM EDT by NWS Mount Holly NJ",
           "severity": "Minor",
-          "expires": "2026-10-31T02:00:00-04:00",
+          "expires": "2026-10-31T04:00:00-04:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -536,9 +551,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued October 30 at 1:25PM EDT until October 31 at 10:00AM EDT by NWS Wakefield VA",
+          "headline": "Small Craft Advisory issued October 30 at 6:28PM EDT until October 31 at 10:00AM EDT by NWS Wakefield VA",
           "severity": "Minor",
-          "expires": "2026-10-30T21:30:00-04:00",
+          "expires": "2026-10-31T06:30:00-04:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -549,9 +564,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued October 30 at 1:25PM EDT until October 31 at 10:00AM EDT by NWS Wakefield VA",
+          "headline": "Small Craft Advisory issued October 30 at 6:28PM EDT until October 31 at 10:00AM EDT by NWS Wakefield VA",
           "severity": "Minor",
-          "expires": "2026-10-30T21:30:00-04:00",
+          "expires": "2026-10-31T06:30:00-04:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -562,9 +577,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued October 30 at 1:25PM EDT until October 31 at 10:00AM EDT by NWS Wakefield VA",
+          "headline": "Small Craft Advisory issued October 30 at 6:28PM EDT until October 31 at 10:00AM EDT by NWS Wakefield VA",
           "severity": "Minor",
-          "expires": "2026-10-30T21:30:00-04:00",
+          "expires": "2026-10-31T06:30:00-04:00",
           "url": "http://www.weather.gov"
         }
       ],
