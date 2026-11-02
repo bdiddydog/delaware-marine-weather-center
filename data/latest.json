@@ -1,66 +1,61 @@
 {
-  "checked_at_utc": "2026-11-02T00:43:32.551691+00:00",
+  "checked_at_utc": "2026-11-02T10:59:39.605291+00:00",
   "zones": {
     "ANZ430": {
       "source": "https://api.weather.gov/zones/forecast/ANZ430/forecast",
       "ok": true,
-      "issued": "2026-11-01T16:01:00-05:00",
-      "updated": "2026-11-01T16:01:00-05:00",
+      "issued": "2026-11-02T04:01:00-05:00",
+      "updated": "2026-11-02T04:01:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "S winds around 5 kt. Seas 1 foot or less."
+          "name": "Today",
+          "detailedForecast": "S winds 5 to 10 kt. Seas 1 foot or less."
         },
         {
           "number": 2,
-          "name": "Mon",
-          "detailedForecast": "S winds around 5 kt. Seas 1 foot or less."
+          "name": "Tonight",
+          "detailedForecast": "S winds 5 to 10 kt. Seas 1 foot or less. Patchy fog after midnight with vsby 1 to 3 NM."
         },
         {
           "number": 3,
-          "name": "Mon Night",
-          "detailedForecast": "S winds around 5 kt. Seas 1 foot or less."
+          "name": "Tue",
+          "detailedForecast": "S winds 5 to 10 kt. Seas 1 foot or less. Wave Detail: SE 1 foot at 2 seconds. Patchy fog in the morning with vsby 1 to 3 NM."
         },
         {
           "number": 4,
-          "name": "Tue",
-          "detailedForecast": "S winds around 5 kt. Seas 1 foot or less."
+          "name": "Tue Night",
+          "detailedForecast": "S winds 5 to 10 kt. Seas 1 foot or less. Wave Detail: SE 1 foot at 2 seconds and SE 1 foot at 6 seconds. Patchy fog. Vsby 1 to 3 NM."
         },
         {
           "number": 5,
-          "name": "Tue Night",
-          "detailedForecast": "S winds 5 to 10 kt. Seas 1 foot or less. Wave Detail: SE 1 foot at 3 seconds."
+          "name": "Wed",
+          "detailedForecast": "SE winds 5 to 10 kt. Seas 1 foot or less, then around 2 ft in the afternoon. Wave Detail: SE 1 foot at 7 seconds, becoming SE 1 foot at 3 seconds and SE 1 foot at 7 seconds. Patchy fog in the morning with vsby 1 to 3 NM."
         },
         {
           "number": 6,
-          "name": "Wed",
-          "detailedForecast": "S winds 5 to 10 kt, becoming SE 10 to 15 kt in the afternoon. Seas 1 foot or less, then around 2 ft in the afternoon. Wave Detail: SE 1 foot at 3 seconds, becoming SE 2 ft at 3 seconds."
+          "name": "Wed Night",
+          "detailedForecast": "SE winds around 10 kt. Seas around 2 ft. Wave Detail: SE 1 foot at 3 seconds and SE 1 foot at 7 seconds."
         },
         {
           "number": 7,
-          "name": "Wed Night",
-          "detailedForecast": "SE winds 5 to 10 kt. Seas around 2 ft."
+          "name": "Thu",
+          "detailedForecast": "S winds 10 to 15 kt. Seas around 2 ft. A chance of rain."
         },
         {
           "number": 8,
-          "name": "Thu",
-          "detailedForecast": "S winds around 10 kt. Seas around 2 ft. A chance of rain."
-        },
-        {
-          "number": 9,
           "name": "Thu Night",
           "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. A chance of rain in the evening, then rain likely after midnight."
         },
         {
-          "number": 10,
+          "number": 9,
           "name": "Fri",
-          "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. A chance of rain."
+          "detailedForecast": "SW winds 5 to 10 kt, becoming NW in the afternoon. Seas 2 to 3 ft. Rain likely."
         },
         {
-          "number": 11,
+          "number": 10,
           "name": "Fri Night",
-          "detailedForecast": "N winds 5 to 10 kt, becoming NW 10 to 15 kt after midnight. Seas 2 to 3 ft. A chance of rain."
+          "detailedForecast": "NW winds 5 to 10 kt. Seas 2 to 3 ft. A chance of rain."
         }
       ],
       "forecast": null
@@ -68,63 +63,58 @@
     "ANZ431": {
       "source": "https://api.weather.gov/zones/forecast/ANZ431/forecast",
       "ok": true,
-      "issued": "2026-11-01T16:01:00-05:00",
-      "updated": "2026-11-01T16:01:00-05:00",
+      "issued": "2026-11-02T04:01:00-05:00",
+      "updated": "2026-11-02T04:01:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "S winds around 5 kt. Seas 1 foot or less. Wave Detail: SE 1 foot at 7 seconds."
+          "name": "Today",
+          "detailedForecast": "S winds around 5 kt, increasing to 5 to 10 kt late. Seas 1 foot or less. Wave Detail: SE 1 foot at 6 seconds."
         },
         {
           "number": 2,
-          "name": "Mon",
-          "detailedForecast": "S winds around 5 kt. Seas 1 foot or less. Wave Detail: SE 1 foot at 6 seconds."
+          "name": "Tonight",
+          "detailedForecast": "S winds 5 to 10 kt. Seas 1 foot or less. Wave Detail: SE 1 foot at 7 seconds. Patchy fog after midnight with vsby 1 to 3 NM."
         },
         {
           "number": 3,
-          "name": "Mon Night",
-          "detailedForecast": "SW winds 5 to 10 kt. Seas 1 foot or less. Wave Detail: S 1 foot at 2 seconds."
+          "name": "Tue",
+          "detailedForecast": "S winds 5 to 10 kt. Seas 1 foot or less. Wave Detail: SE 1 foot at 7 seconds. Patchy fog in the morning with vsby 1 to 3 NM."
         },
         {
           "number": 4,
-          "name": "Tue",
-          "detailedForecast": "S winds around 5 kt. Seas 1 foot or less. Wave Detail: S 1 foot at 3 seconds."
+          "name": "Tue Night",
+          "detailedForecast": "S winds 5 to 10 kt. Seas 1 foot or less. Wave Detail: SE 1 foot at 6 seconds. Patchy fog. Vsby 1 to 3 NM."
         },
         {
           "number": 5,
-          "name": "Tue Night",
-          "detailedForecast": "S winds 5 to 10 kt. Seas 1 foot or less. Wave Detail: S 1 foot at 3 seconds and SE 1 foot at 6 seconds."
+          "name": "Wed",
+          "detailedForecast": "SE winds 5 to 10 kt. Seas around 2 ft. Wave Detail: SE 1 foot at 2 seconds and SE 1 foot at 8 seconds. Patchy fog in the morning with vsby 1 to 3 NM."
         },
         {
           "number": 6,
-          "name": "Wed",
-          "detailedForecast": "SE winds 5 to 10 kt. Seas around 2 ft. Wave Detail: SE 2 ft at 3 seconds and SE 1 foot at 8 seconds."
+          "name": "Wed Night",
+          "detailedForecast": "SE winds around 10 kt. Seas around 2 ft. Wave Detail: SE 2 ft at 7 seconds and S 1 foot at 2 seconds."
         },
         {
           "number": 7,
-          "name": "Wed Night",
-          "detailedForecast": "SE winds 5 to 10 kt. Seas around 2 ft."
-        },
-        {
-          "number": 8,
           "name": "Thu",
           "detailedForecast": "S winds 10 to 15 kt. Seas 2 to 3 ft. A chance of rain."
         },
         {
-          "number": 9,
+          "number": 8,
           "name": "Thu Night",
-          "detailedForecast": "S winds 5 to 10 kt. Seas 2 to 3 ft. A chance of rain."
+          "detailedForecast": "S winds 10 to 15 kt, diminishing to 5 to 10 kt after midnight. Seas 2 to 3 ft. A chance of rain in the evening, then rain likely after midnight."
+        },
+        {
+          "number": 9,
+          "name": "Fri",
+          "detailedForecast": "SW winds 5 to 10 kt. Seas 2 to 4 ft. Rain likely."
         },
         {
           "number": 10,
-          "name": "Fri",
-          "detailedForecast": "S winds 5 to 10 kt. Seas 2 to 3 ft. Rain likely, mainly in the morning."
-        },
-        {
-          "number": 11,
           "name": "Fri Night",
-          "detailedForecast": "W winds 5 to 10 kt, becoming NW 10 to 15 kt after midnight. Seas 2 to 3 ft. A chance of rain."
+          "detailedForecast": "NW winds 5 to 10 kt. Seas 2 to 4 ft. A chance of rain."
         }
       ],
       "forecast": null
@@ -132,63 +122,58 @@
     "ANZ454": {
       "source": "https://api.weather.gov/zones/forecast/ANZ454/forecast",
       "ok": true,
-      "issued": "2026-11-01T16:01:00-05:00",
-      "updated": "2026-11-01T16:01:00-05:00",
+      "issued": "2026-11-02T04:01:00-05:00",
+      "updated": "2026-11-02T04:01:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "E winds around 5 kt, becoming S around 5 kt after midnight. Seas around 2 ft. Wave Detail: E 2 ft at 6 seconds."
+          "name": "Today",
+          "detailedForecast": "SE winds around 5 kt, becoming S this afternoon. Seas around 2 ft this morning, then 1 foot or less. Wave Detail: E 2 ft at 7 seconds, becoming E 1 foot at 7 seconds."
         },
         {
           "number": 2,
-          "name": "Mon",
-          "detailedForecast": "S winds around 5 kt, increasing to 5 to 10 kt in the afternoon. Seas around 2 ft in the morning, then 1 foot or less. Wave Detail: E 2 ft at 7 seconds, becoming E 1 foot at 7 seconds."
+          "name": "Tonight",
+          "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. Wave Detail: E 1 foot at 8 seconds."
         },
         {
           "number": 3,
-          "name": "Mon Night",
-          "detailedForecast": "SW winds 5 to 10 kt. Seas around 2 ft. Wave Detail: S 1 foot at 3 seconds and E 1 foot at 8 seconds."
+          "name": "Tue",
+          "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. Wave Detail: E 2 ft at 9 seconds."
         },
         {
           "number": 4,
-          "name": "Tue",
-          "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. Wave Detail: S 1 foot at 3 seconds and E 1 foot at 9 seconds."
+          "name": "Tue Night",
+          "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. Wave Detail: SE 2 ft at 8 seconds. Patchy fog. Vsby 1 to 3 NM."
         },
         {
           "number": 5,
-          "name": "Tue Night",
-          "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. Wave Detail: S 2 ft at 3 seconds and E 2 ft at 9 seconds."
+          "name": "Wed",
+          "detailedForecast": "SE winds 5 to 10 kt. Seas 2 to 3 ft. Wave Detail: SE 2 ft at 8 seconds. Patchy fog in the morning with vsby 1 to 3 NM."
         },
         {
           "number": 6,
-          "name": "Wed",
-          "detailedForecast": "SE winds 5 to 10 kt. Seas 2 to 3 ft. Wave Detail: SE 3 ft at 8 seconds."
+          "name": "Wed Night",
+          "detailedForecast": "SE winds 10 to 15 kt. Seas 2 to 4 ft. Wave Detail: SE 4 ft at 9 seconds."
         },
         {
           "number": 7,
-          "name": "Wed Night",
-          "detailedForecast": "SE winds around 10 kt. Seas 2 to 4 ft."
+          "name": "Thu",
+          "detailedForecast": "S winds around 15 kt. Seas 3 to 5 ft. A chance of rain in the afternoon."
         },
         {
           "number": 8,
-          "name": "Thu",
-          "detailedForecast": "S winds 10 to 15 kt. Seas 3 to 4 ft. A chance of rain in the afternoon."
+          "name": "Thu Night",
+          "detailedForecast": "S winds 10 to 15 kt. Seas 4 to 5 ft. A chance of rain in the evening, then rain likely after midnight."
         },
         {
           "number": 9,
-          "name": "Thu Night",
-          "detailedForecast": "S winds around 10 kt. Seas 3 to 4 ft. A chance of rain."
+          "name": "Fri",
+          "detailedForecast": "S winds around 10 kt. Seas 5 to 7 ft. Rain likely."
         },
         {
           "number": 10,
-          "name": "Fri",
-          "detailedForecast": "S winds around 10 kt. Seas 3 to 4 ft. Rain likely, mainly in the morning."
-        },
-        {
-          "number": 11,
           "name": "Fri Night",
-          "detailedForecast": "SW winds around 10 kt, becoming NW after midnight. Seas 3 to 5 ft. A chance of rain."
+          "detailedForecast": "NW winds 5 to 10 kt. Seas 6 to 7 ft. Rain likely, mainly in the evening."
         }
       ],
       "forecast": null
@@ -196,63 +181,58 @@
     "ANZ455": {
       "source": "https://api.weather.gov/zones/forecast/ANZ455/forecast",
       "ok": true,
-      "issued": "2026-11-01T16:01:00-05:00",
-      "updated": "2026-11-01T16:01:00-05:00",
+      "issued": "2026-11-02T04:01:00-05:00",
+      "updated": "2026-11-02T04:01:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "E winds around 5 kt, becoming S around 5 kt after midnight. Seas around 2 ft. Wave Detail: E 2 ft at 6 seconds."
+          "name": "Today",
+          "detailedForecast": "SE winds around 5 kt, becoming S late. Seas around 2 ft. Wave Detail: E 2 ft at 7 seconds."
         },
         {
           "number": 2,
-          "name": "Mon",
-          "detailedForecast": "S winds around 5 kt, increasing to 5 to 10 kt in the afternoon. Seas around 2 ft. Wave Detail: E 2 ft at 7 seconds and S 1 foot at 2 seconds."
+          "name": "Tonight",
+          "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. Wave Detail: E 2 ft at 8 seconds. Patchy fog after midnight with vsby 1 to 3 NM."
         },
         {
           "number": 3,
-          "name": "Mon Night",
-          "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. Wave Detail: S 1 foot at 2 seconds and E 1 foot at 8 seconds."
+          "name": "Tue",
+          "detailedForecast": "SE winds 5 to 10 kt. Seas around 2 ft. Wave Detail: E 2 ft at 8 seconds. Patchy fog in the morning with vsby 1 to 3 NM."
         },
         {
           "number": 4,
-          "name": "Tue",
-          "detailedForecast": "S winds 5 to 10 kt. Seas around 2 ft. Wave Detail: E 2 ft at 8 seconds and S 1 foot at 5 seconds."
+          "name": "Tue Night",
+          "detailedForecast": "SE winds 5 to 10 kt. Seas around 2 ft. Wave Detail: SE 2 ft at 7 seconds. Patchy fog. Vsby 1 to 3 NM."
         },
         {
           "number": 5,
-          "name": "Tue Night",
-          "detailedForecast": "SE winds 5 to 10 kt. Seas around 2 ft. Wave Detail: E 2 ft at 8 seconds and S 1 foot at 3 seconds."
+          "name": "Wed",
+          "detailedForecast": "SE winds 5 to 10 kt. Seas 2 to 3 ft. Wave Detail: SE 3 ft at 8 seconds. Patchy fog in the morning with vsby 1 to 3 NM."
         },
         {
           "number": 6,
-          "name": "Wed",
-          "detailedForecast": "SE winds 5 to 10 kt. Seas 2 to 3 ft. Wave Detail: SE 3 ft at 8 seconds."
+          "name": "Wed Night",
+          "detailedForecast": "SE winds 10 to 15 kt. Seas 3 to 4 ft. Wave Detail: SE 4 ft at 9 seconds."
         },
         {
           "number": 7,
-          "name": "Wed Night",
-          "detailedForecast": "SE winds 5 to 10 kt. Seas 3 to 4 ft."
+          "name": "Thu",
+          "detailedForecast": "S winds 10 to 15 kt. Seas 3 to 5 ft. A chance of rain in the afternoon."
         },
         {
           "number": 8,
-          "name": "Thu",
-          "detailedForecast": "S winds 10 to 15 kt. Seas 3 to 4 ft. A chance of rain in the afternoon."
+          "name": "Thu Night",
+          "detailedForecast": "S winds 10 to 15 kt. Seas 4 to 5 ft. A chance of rain in the evening, then rain likely after midnight."
         },
         {
           "number": 9,
-          "name": "Thu Night",
-          "detailedForecast": "S winds around 10 kt. Seas around 4 ft. A chance of rain."
+          "name": "Fri",
+          "detailedForecast": "S winds around 10 kt. Seas 4 to 6 ft, building to 6 to 7 ft in the afternoon. Rain likely."
         },
         {
           "number": 10,
-          "name": "Fri",
-          "detailedForecast": "S winds around 10 kt. Seas around 4 ft. Rain likely, mainly in the morning."
-        },
-        {
-          "number": 11,
           "name": "Fri Night",
-          "detailedForecast": "SW winds around 10 kt, becoming NW after midnight. Seas 4 to 5 ft. A chance of rain."
+          "detailedForecast": "NW winds 5 to 10 kt. Seas 6 to 7 ft. Rain likely, mainly in the evening."
         }
       ],
       "forecast": null
@@ -260,63 +240,58 @@
     "ANZ630": {
       "source": "https://api.weather.gov/zones/forecast/ANZ630/forecast",
       "ok": true,
-      "issued": "2026-11-01T18:55:00-05:00",
-      "updated": "2026-11-01T18:55:00-05:00",
+      "issued": "2026-11-02T04:30:00-05:00",
+      "updated": "2026-11-02T04:30:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
+          "name": "Today",
+          "detailedForecast": "E winds 5 kt. Waves 1 foot."
         },
         {
           "number": 2,
-          "name": "Mon",
-          "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
-        },
-        {
-          "number": 3,
-          "name": "Mon Night",
+          "name": "Tonight",
           "detailedForecast": "SE winds 5 kt. Waves 1 foot."
         },
         {
-          "number": 4,
+          "number": 3,
           "name": "Tue",
           "detailedForecast": "SE winds 5 kt. Waves 1 foot."
         },
         {
-          "number": 5,
+          "number": 4,
           "name": "Tue Night",
           "detailedForecast": "SE winds 5 kt. Waves 1 foot."
         },
         {
-          "number": 6,
+          "number": 5,
           "name": "Wed",
           "detailedForecast": "SE winds 5 to 10 kt. Gusts up to 15 kt in the afternoon. Waves 1 foot."
         },
         {
-          "number": 7,
+          "number": 6,
           "name": "Wed Night",
-          "detailedForecast": "SE winds 5 to 10 kt. Gusts up to 15 kt in the evening. Waves 1 foot."
+          "detailedForecast": "SE winds 5 to 10 kt with gusts up to 15 kt. Waves 1 foot."
+        },
+        {
+          "number": 7,
+          "name": "Thu",
+          "detailedForecast": "S winds 5 to 10 kt with gusts up to 15 kt. Waves 1 to 2 ft. A chance of showers."
         },
         {
           "number": 8,
-          "name": "Thu",
-          "detailedForecast": "SE winds 10 kt with gusts up to 15 kt. Waves 1 to 2 ft. A chance of showers."
+          "name": "Thu Night",
+          "detailedForecast": "S winds 10 kt with gusts up to 15 kt. Waves 1 foot. A chance of showers in the evening, then showers likely after midnight."
         },
         {
           "number": 9,
-          "name": "Thu Night",
-          "detailedForecast": "S winds 5 to 10 kt. Gusts up to 15 kt in the evening. Waves 1 foot. A chance of showers."
+          "name": "Fri",
+          "detailedForecast": "SW winds 5 to 10 kt, becoming NW in the afternoon. Gusts up to 15 kt. Waves 1 foot. A chance of showers in the morning, then showers likely in the afternoon."
         },
         {
           "number": 10,
-          "name": "Fri",
-          "detailedForecast": "S winds 5 to 10 kt with gusts up to 15 kt. Waves 1 foot. A chance of showers."
-        },
-        {
-          "number": 11,
           "name": "Fri Night",
-          "detailedForecast": "NW winds 5 to 10 kt, increasing to 10 to 15 kt after midnight. Waves 1 to 2 ft. A chance of showers."
+          "detailedForecast": "NW winds 5 to 10 kt. Gusts up to 15 kt after midnight. Waves 1 to 2 ft. A chance of showers."
         }
       ],
       "forecast": null
@@ -324,63 +299,58 @@
     "ANZ631": {
       "source": "https://api.weather.gov/zones/forecast/ANZ631/forecast",
       "ok": true,
-      "issued": "2026-11-01T18:55:00-05:00",
-      "updated": "2026-11-01T18:55:00-05:00",
+      "issued": "2026-11-02T04:30:00-05:00",
+      "updated": "2026-11-02T04:30:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "E winds 5 to 10 kt. Gusts up to 15 kt early this evening. Waves 1 foot."
-        },
-        {
-          "number": 2,
-          "name": "Mon",
+          "name": "Today",
           "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
         },
         {
+          "number": 2,
+          "name": "Tonight",
+          "detailedForecast": "SE winds 5 kt. Waves 1 foot."
+        },
+        {
           "number": 3,
-          "name": "Mon Night",
-          "detailedForecast": "SE winds 5 to 10 kt. Waves 1 foot."
+          "name": "Tue",
+          "detailedForecast": "SE winds 5 kt. Waves 1 foot."
         },
         {
           "number": 4,
-          "name": "Tue",
-          "detailedForecast": "E winds 5 kt, becoming SE in the afternoon. Waves 1 foot."
+          "name": "Tue Night",
+          "detailedForecast": "SE winds 5 kt. Waves 1 foot."
         },
         {
           "number": 5,
-          "name": "Tue Night",
-          "detailedForecast": "SE winds 5 to 10 kt. Waves 1 foot."
-        },
-        {
-          "number": 6,
           "name": "Wed",
           "detailedForecast": "SE winds 5 to 10 kt. Gusts up to 15 kt in the afternoon. Waves 1 foot."
         },
         {
-          "number": 7,
+          "number": 6,
           "name": "Wed Night",
           "detailedForecast": "SE winds 5 to 10 kt. Gusts up to 15 kt in the evening. Waves 1 foot."
         },
         {
-          "number": 8,
+          "number": 7,
           "name": "Thu",
-          "detailedForecast": "SE winds 5 to 10 kt with gusts up to 15 kt. Waves 1 to 2 ft. A chance of showers in the afternoon."
+          "detailedForecast": "S winds 5 to 10 kt with gusts up to 15 kt. Waves 1 to 2 ft. A chance of showers."
+        },
+        {
+          "number": 8,
+          "name": "Thu Night",
+          "detailedForecast": "S winds 5 to 10 kt. Gusts up to 15 kt in the evening. Waves 1 foot. A chance of showers in the evening, then showers likely after midnight."
         },
         {
           "number": 9,
-          "name": "Thu Night",
-          "detailedForecast": "S winds 5 to 10 kt. Gusts up to 15 kt in the evening. Waves 1 foot. A chance of showers."
+          "name": "Fri",
+          "detailedForecast": "SE winds 5 to 10 kt, becoming N in the afternoon. Waves 1 foot. A chance of showers in the morning, then showers likely in the afternoon."
         },
         {
           "number": 10,
-          "name": "Fri",
-          "detailedForecast": "S winds 5 to 10 kt, becoming E in the afternoon. Gusts up to 15 kt. Waves 1 foot. A chance of showers."
-        },
-        {
-          "number": 11,
           "name": "Fri Night",
-          "detailedForecast": "NW winds 5 to 10 kt. Gusts up to 15 kt after midnight. Waves 1 foot. A chance of showers."
+          "detailedForecast": "N winds 5 to 10 kt. Gusts up to 15 kt after midnight. Waves 1 foot. A chance of showers."
         }
       ],
       "forecast": null
@@ -388,63 +358,58 @@
     "ANZ632": {
       "source": "https://api.weather.gov/zones/forecast/ANZ632/forecast",
       "ok": true,
-      "issued": "2026-11-01T18:55:00-05:00",
-      "updated": "2026-11-01T18:55:00-05:00",
+      "issued": "2026-11-02T04:30:00-05:00",
+      "updated": "2026-11-02T04:30:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "E winds 5 to 10 kt. Gusts up to 15 kt this evening, then 15 kt late. Waves 1 foot."
+          "name": "Today",
+          "detailedForecast": "E winds 5 to 10 kt. Gusts up to 15 kt late. Waves 1 foot."
         },
         {
           "number": 2,
-          "name": "Mon",
-          "detailedForecast": "E winds 5 to 10 kt. Gusts up to 15 kt in the afternoon. Waves 1 foot."
+          "name": "Tonight",
+          "detailedForecast": "E winds 5 to 10 kt, diminishing to 5 kt late. Waves 1 foot."
         },
         {
           "number": 3,
-          "name": "Mon Night",
-          "detailedForecast": "E winds 5 to 10 kt. Gusts up to 15 kt in the evening. Waves 1 foot."
+          "name": "Tue",
+          "detailedForecast": "E winds 5 kt, increasing to 5 to 10 kt in the afternoon. Waves 1 foot."
         },
         {
           "number": 4,
-          "name": "Tue",
-          "detailedForecast": "E winds 5 to 10 kt. Waves 1 foot."
+          "name": "Tue Night",
+          "detailedForecast": "SE winds 5 to 10 kt, becoming E after midnight. Waves 1 foot."
         },
         {
           "number": 5,
-          "name": "Tue Night",
-          "detailedForecast": "E winds 5 to 10 kt, diminishing to 5 kt after midnight. Waves 1 foot."
+          "name": "Wed",
+          "detailedForecast": "SE winds 5 to 10 kt. Gusts up to 15 kt in the afternoon. Waves 1 to 2 ft."
         },
         {
           "number": 6,
-          "name": "Wed",
-          "detailedForecast": "E winds 5 to 10 kt with gusts up to 15 kt. Waves 1 to 2 ft."
-        },
-        {
-          "number": 7,
           "name": "Wed Night",
           "detailedForecast": "SE winds 5 to 10 kt. Gusts up to 15 kt in the evening. Waves 1 to 2 ft."
         },
         {
-          "number": 8,
+          "number": 7,
           "name": "Thu",
-          "detailedForecast": "SE winds 5 to 10 kt with gusts up to 15 kt. Waves 2 to 3 ft. A chance of showers in the afternoon."
+          "detailedForecast": "SE winds 5 to 10 kt. Gusts up to 15 kt in the afternoon. Waves 1 to 2 ft. A chance of showers."
+        },
+        {
+          "number": 8,
+          "name": "Thu Night",
+          "detailedForecast": "S winds 10 kt with gusts up to 15 kt. Waves 2 to 3 ft. A chance of showers."
         },
         {
           "number": 9,
-          "name": "Thu Night",
-          "detailedForecast": "SE winds 5 to 10 kt. Gusts up to 15 kt in the evening. Waves 2 to 3 ft. A chance of showers."
+          "name": "Fri",
+          "detailedForecast": "S winds 5 to 10 kt, becoming N in the afternoon. Waves 2 to 3 ft. A chance of showers in the morning, then showers likely in the afternoon."
         },
         {
           "number": 10,
-          "name": "Fri",
-          "detailedForecast": "SE winds 5 to 10 kt with gusts up to 15 kt. Waves 2 to 3 ft. A chance of showers."
-        },
-        {
-          "number": 11,
           "name": "Fri Night",
-          "detailedForecast": "NW winds 5 to 10 kt. Gusts up to 15 kt after midnight. Waves 2 to 3 ft. A chance of showers in the evening."
+          "detailedForecast": "N winds 5 to 10 kt with gusts up to 15 kt. Waves 2 to 3 ft. A chance of showers."
         }
       ],
       "forecast": null
@@ -463,7 +428,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 02 00 00  40  4.0  5.0    MM    MM    MM  MM 1032.4  14.2  17.2   7.9   MM -0.4    MM"
+      "latest": "2026 11 02 10 30  60  2.0  3.0    MM    MM    MM  MM 1031.4  14.9  17.1   5.6   MM   MM    MM"
     },
     "44014": {
       "ok": true,
@@ -472,7 +437,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 02 00 00  MM   MM   MM    MM    MM    MM  MM     MM    MM  21.4    MM   MM   MM    MM"
+      "latest": "2026 11 02 10 30  MM   MM   MM    MM    MM    MM  MM     MM    MM  21.0    MM   MM   MM    MM"
     },
     "44025": {
       "ok": true,
@@ -481,7 +446,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 01 23 40  MM   MM   MM   0.4     9   5.3 114     MM    MM  16.0    MM   MM   MM    MM"
+      "latest": "2026 11 02 09 40  MM   MM   MM   0.7     4   3.6 254     MM    MM  15.9    MM   MM   MM    MM"
     },
     "LWSD1": {
       "ok": true,
@@ -490,7 +455,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 02 00 00  MM  0.0  0.5    MM    MM    MM  MM 1032.5  12.9  15.6    MM   MM -0.4    MM"
+      "latest": "2026 11 02 10 18 260  1.5  1.5    MM    MM    MM  MM 1031.6    MM  15.3    MM   MM   MM    MM"
     }
   },
   "marine_alerts": {
