@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-13T23:31:00.782367+00:00",
+  "checked_at_utc": "2026-11-14T06:18:25.690277+00:00",
   "zones": {
     "ANZ430": {
       "source": "https://api.weather.gov/zones/forecast/ANZ430/forecast",
@@ -260,13 +260,13 @@
     "ANZ630": {
       "source": "https://api.weather.gov/zones/forecast/ANZ630/forecast",
       "ok": true,
-      "issued": "2026-11-13T18:03:00-05:00",
-      "updated": "2026-11-13T18:03:00-05:00",
+      "issued": "2026-11-14T01:01:00-05:00",
+      "updated": "2026-11-14T01:01:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "NW winds 15 to 20 kt with gusts up to 30 kt. Waves 3 to 4 ft, occasionally to 5 ft."
+          "name": "Rest Of Tonight",
+          "detailedForecast": "N winds 15 to 20 kt with gusts up to 30 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
           "number": 2,
@@ -314,13 +314,13 @@
     "ANZ631": {
       "source": "https://api.weather.gov/zones/forecast/ANZ631/forecast",
       "ok": true,
-      "issued": "2026-11-13T18:03:00-05:00",
-      "updated": "2026-11-13T18:03:00-05:00",
+      "issued": "2026-11-14T01:01:00-05:00",
+      "updated": "2026-11-14T01:01:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "NW winds 15 to 20 kt with gusts up to 25 kt. Waves 3 to 4 ft, occasionally to 5 ft."
+          "name": "Rest Of Tonight",
+          "detailedForecast": "NW winds 15 to 20 kt with gusts up to 30 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
           "number": 2,
@@ -368,13 +368,13 @@
     "ANZ632": {
       "source": "https://api.weather.gov/zones/forecast/ANZ632/forecast",
       "ok": true,
-      "issued": "2026-11-13T18:03:00-05:00",
-      "updated": "2026-11-13T18:03:00-05:00",
+      "issued": "2026-11-14T01:01:00-05:00",
+      "updated": "2026-11-14T01:01:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "NW winds 15 to 20 kt with gusts up to 30 kt. Waves 3 to 4 ft, occasionally to 5 ft."
+          "name": "Rest Of Tonight",
+          "detailedForecast": "N winds 15 to 20 kt, becoming NW 20 to 25 kt late. Gusts up to 30 kt. Waves 4 to 5 ft, occasionally to 6 ft."
         },
         {
           "number": 2,
@@ -425,17 +425,17 @@
     "source": "https://api.weather.gov/alerts/active?area=DE",
     "items": [
       {
+        "event": "Freeze Warning",
+        "headline": "Freeze Warning issued November 14 at 12:56AM EST until November 14 at 9:00AM EST by NWS Mount Holly NJ",
+        "area": "New Castle; Kent; Inland Sussex; Kent; Queen Anne's; Talbot; Caroline; Salem; Gloucester; Camden; Cumberland; Cape May; Delaware; Eastern Chester; Eastern Montgomery; Lower Bucks",
+        "expires": "2026-11-14T09:00:00-05:00",
+        "url": "http://www.weather.gov"
+      },
+      {
         "event": "Coastal Flood Advisory",
         "headline": "Coastal Flood Advisory issued November 13 at 2:47PM EST until November 14 at 4:00AM EST by NWS Mount Holly NJ",
         "area": "Inland Sussex; Delaware Beaches",
         "expires": "2026-11-14T04:00:00-05:00",
-        "url": "http://www.weather.gov"
-      },
-      {
-        "event": "Freeze Warning",
-        "headline": "Freeze Warning issued November 13 at 12:43PM EST until November 14 at 9:00AM EST by NWS Mount Holly NJ",
-        "area": "New Castle; Kent; Inland Sussex; Kent; Queen Anne's; Talbot; Caroline; Salem; Gloucester; Camden; Cumberland; Cape May; Delaware; Eastern Chester; Eastern Montgomery; Lower Bucks",
-        "expires": "2026-11-14T01:45:00-05:00",
         "url": "http://www.weather.gov"
       }
     ]
@@ -448,7 +448,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 13 23 00 340 10.0 12.0    MM    MM    MM  MM 1006.1   8.9    MM   5.1   MM +2.2    MM"
+      "latest": "2026 11 14 05 50 350 11.0 13.0    MM    MM    MM  MM 1007.3   7.5  16.3   3.0   MM   MM    MM"
     },
     "44014": {
       "ok": true,
@@ -457,7 +457,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 13 23 00  MM   MM   MM    MM    MM    MM  MM     MM    MM  23.1    MM   MM   MM    MM"
+      "latest": "2026 11 14 05 50  MM   MM   MM   2.0     5   5.0 355     MM    MM  23.2    MM   MM   MM    MM"
     },
     "44025": {
       "ok": true,
@@ -466,7 +466,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 13 22 40  MM   MM   MM   2.3     9   5.7 104     MM    MM  15.4    MM   MM   MM    MM"
+      "latest": "2026 11 14 05 10  MM   MM   MM   1.8     8   5.0 104     MM    MM    MM    MM   MM   MM    MM"
     },
     "LWSD1": {
       "ok": true,
@@ -475,7 +475,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 13 22 48 320  9.8 12.9    MM    MM    MM  MM 1006.5    MM  13.7    MM   MM   MM    MM"
+      "latest": "2026 11 14 05 48 320 10.8 12.9    MM    MM    MM  MM     MM    MM    MM    MM   MM   MM    MM"
     }
   },
   "marine_alerts": {
@@ -484,9 +484,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 13 at 12:47PM EST until November 14 at 6:00PM EST by NWS Mount Holly NJ",
+          "headline": "Small Craft Advisory issued November 14 at 12:59AM EST until November 15 at 6:00AM EST by NWS Mount Holly NJ",
           "severity": "Minor",
-          "expires": "2026-11-14T05:00:00-05:00",
+          "expires": "2026-11-15T06:00:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -497,9 +497,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 13 at 12:47PM EST until November 14 at 6:00PM EST by NWS Mount Holly NJ",
+          "headline": "Small Craft Advisory issued November 14 at 12:59AM EST until November 15 at 6:00AM EST by NWS Mount Holly NJ",
           "severity": "Minor",
-          "expires": "2026-11-14T05:00:00-05:00",
+          "expires": "2026-11-15T06:00:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -510,9 +510,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 13 at 12:47PM EST until November 14 at 6:00PM EST by NWS Mount Holly NJ",
+          "headline": "Small Craft Advisory issued November 14 at 12:59AM EST until November 15 at 6:00AM EST by NWS Mount Holly NJ",
           "severity": "Minor",
-          "expires": "2026-11-14T05:00:00-05:00",
+          "expires": "2026-11-15T06:00:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -523,9 +523,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 13 at 12:47PM EST until November 14 at 6:00PM EST by NWS Mount Holly NJ",
+          "headline": "Small Craft Advisory issued November 14 at 12:59AM EST until November 15 at 6:00AM EST by NWS Mount Holly NJ",
           "severity": "Minor",
-          "expires": "2026-11-14T05:00:00-05:00",
+          "expires": "2026-11-15T06:00:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -536,9 +536,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 13 at 2:17PM EST until November 15 at 1:00PM EST by NWS Wakefield VA",
+          "headline": "Small Craft Advisory issued November 13 at 9:26PM EST until November 15 at 1:00PM EST by NWS Wakefield VA",
           "severity": "Minor",
-          "expires": "2026-11-13T22:30:00-05:00",
+          "expires": "2026-11-14T05:30:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -549,9 +549,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 13 at 2:17PM EST until November 15 at 1:00PM EST by NWS Wakefield VA",
+          "headline": "Small Craft Advisory issued November 13 at 9:26PM EST until November 15 at 1:00PM EST by NWS Wakefield VA",
           "severity": "Minor",
-          "expires": "2026-11-13T22:30:00-05:00",
+          "expires": "2026-11-14T05:30:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -562,9 +562,9 @@
       "items": [
         {
           "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 13 at 2:17PM EST until November 15 at 1:00PM EST by NWS Wakefield VA",
+          "headline": "Small Craft Advisory issued November 13 at 9:26PM EST until November 15 at 1:00PM EST by NWS Wakefield VA",
           "severity": "Minor",
-          "expires": "2026-11-13T22:30:00-05:00",
+          "expires": "2026-11-14T05:30:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
