@@ -1,51 +1,115 @@
 {
-  "checked_at_utc": "2026-11-24T23:52:49.626433+00:00",
+  "checked_at_utc": "2026-11-25T08:28:44.725284+00:00",
   "zones": {
     "ANZ430": {
       "source": "https://api.weather.gov/zones/forecast/ANZ430/forecast",
       "ok": true,
-      "issued": "2026-11-24T16:01:00-05:00",
-      "updated": "2026-11-24T16:01:00-05:00",
+      "issued": "2026-11-25T01:58:00-05:00",
+      "updated": "2026-11-25T01:58:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "NE winds 10 to 15 kt with gusts up to 20 kt, increasing to 15 to 20 kt late. Seas around 2 ft. Wave Detail: NE 2 ft at 3 seconds."
+          "name": "Rest Of Tonight",
+          "detailedForecast": "NE winds 15 to 20 kt. Seas around 2 ft. Wave Detail: NE 2 ft at 3 seconds."
         },
         {
           "number": 2,
           "name": "Wed",
-          "detailedForecast": "NE winds 15 to 20 kt. Gusts up to 30 kt in the afternoon. Seas 2 to 3 ft. Wave Detail: NE 2 ft at 3 seconds."
+          "detailedForecast": "NE winds 15 to 20 kt, increasing to 20 to 25 kt in the afternoon. Seas 2 to 3 ft. Wave Detail: NE 2 ft at 3 seconds."
         },
         {
           "number": 3,
           "name": "Wed Night",
-          "detailedForecast": "NE winds 25 to 35 kt. Seas 3 to 5 ft. Wave Detail: E 4 ft at 4 seconds. Rain likely after midnight."
+          "detailedForecast": "NE winds 25 to 30 kt, increasing to 30 to 40 kt with gusts up to 50 kt after midnight. Seas 3 to 5 ft. Wave Detail: E 4 ft at 4 seconds. Rain likely after midnight."
         },
         {
           "number": 4,
           "name": "Thu",
-          "detailedForecast": "E winds 35 to 45 kt with gusts up to 55 kt. Seas 4 to 6 ft. Wave Detail: E 6 ft at 5 seconds. Rain."
+          "detailedForecast": "E winds 35 to 45 kt with gusts up to 60 kt. Seas 4 to 6 ft. Wave Detail: E 6 ft at 5 seconds. Rain. A chance of tstms in the afternoon."
         },
         {
           "number": 5,
           "name": "Thu Night",
-          "detailedForecast": "SE winds 30 to 40 kt, becoming SW 25 to 30 kt after midnight. Seas 2 to 4 ft. Wave Detail: SE 4 ft at 5 seconds and SE 2 ft at 12 seconds. Rain likely in the evening."
+          "detailedForecast": "SE winds 25 to 35 kt with gusts up to 45 kt, becoming SW 20 to 25 kt with gusts up to 30 kt after midnight. Seas 2 to 4 ft. Wave Detail: SE 4 ft at 5 seconds and SE 2 ft at 12 seconds. Rain likely with a chance of tstms in the evening."
         },
         {
           "number": 6,
           "name": "Fri",
-          "detailedForecast": "SW winds 25 to 30 kt. Seas 2 to 4 ft. Wave Detail: SW 3 ft at 4 seconds and SE 2 ft at 11 seconds."
+          "detailedForecast": "SW winds 25 to 30 kt, diminishing to 20 to 25 kt in the afternoon. Seas 2 to 4 ft. Wave Detail: S 4 ft at 4 seconds and SE 2 ft at 11 seconds. A chance of rain in the afternoon."
         },
         {
           "number": 7,
           "name": "Fri Night",
-          "detailedForecast": "W winds 25 to 30 kt, diminishing to 20 to 25 kt after midnight. Seas 2 to 3 ft."
+          "detailedForecast": "W winds 20 to 25 kt with gusts up to 30 kt. Seas 2 to 3 ft."
         },
         {
           "number": 8,
           "name": "Sat",
-          "detailedForecast": "W winds 20 to 25 kt, diminishing to 15 to 20 kt in the afternoon. Seas 2 to 3 ft."
+          "detailedForecast": "W winds 15 to 20 kt. Seas 2 to 3 ft."
+        },
+        {
+          "number": 9,
+          "name": "Sat Night",
+          "detailedForecast": "W winds 5 to 10 kt. Seas 1 foot or less."
+        },
+        {
+          "number": 10,
+          "name": "Sun",
+          "detailedForecast": "SW winds 5 to 10 kt. Seas 1 foot or less."
+        },
+        {
+          "number": 11,
+          "name": "Sun Night",
+          "detailedForecast": "S winds 10 to 15 kt, becoming SW 15 to 20 kt after midnight. Seas 1 foot or less, then around 2 ft after midnight. A chance of rain after midnight. Winds and seas higher in and near tstms."
+        }
+      ],
+      "forecast": null
+    },
+    "ANZ431": {
+      "source": "https://api.weather.gov/zones/forecast/ANZ431/forecast",
+      "ok": true,
+      "issued": "2026-11-25T01:58:00-05:00",
+      "updated": "2026-11-25T01:58:00-05:00",
+      "periods": [
+        {
+          "number": 1,
+          "name": "Rest Of Tonight",
+          "detailedForecast": "NE winds 15 to 20 kt with gusts up to 25 kt. Seas 2 to 3 ft. Wave Detail: NE 2 ft at 3 seconds and SE 1 foot at 8 seconds."
+        },
+        {
+          "number": 2,
+          "name": "Wed",
+          "detailedForecast": "NE winds 15 to 20 kt, increasing to 20 to 25 kt in the afternoon. Seas 2 to 4 ft. Wave Detail: NE 3 ft at 3 seconds and SE 1 foot at 8 seconds."
+        },
+        {
+          "number": 3,
+          "name": "Wed Night",
+          "detailedForecast": "E winds 25 to 30 kt, increasing to 35 to 45 kt after midnight. Seas 4 to 6 ft. Wave Detail: E 5 ft at 4 seconds. Rain after midnight."
+        },
+        {
+          "number": 4,
+          "name": "Thu",
+          "detailedForecast": "E winds 35 to 45 kt with gusts up to 60 kt. Seas 5 to 8 ft. Wave Detail: SE 6 ft at 9 seconds and NE 5 ft at 5 seconds. Rain. A chance of tstms in the afternoon."
+        },
+        {
+          "number": 5,
+          "name": "Thu Night",
+          "detailedForecast": "SE winds 25 to 35 kt with gusts up to 45 kt, becoming SW 20 to 25 kt with gusts up to 35 kt after midnight. Seas 3 to 5 ft. Wave Detail: SE 5 ft at 12 seconds and E 4 ft at 4 seconds. Rain likely in the evening."
+        },
+        {
+          "number": 6,
+          "name": "Fri",
+          "detailedForecast": "SW winds 25 to 30 kt. Seas 4 to 6 ft. Wave Detail: SW 4 ft at 4 seconds and SE 4 ft at 12 seconds."
+        },
+        {
+          "number": 7,
+          "name": "Fri Night",
+          "detailedForecast": "W winds 20 to 25 kt with gusts up to 30 kt. Seas 2 to 4 ft."
+        },
+        {
+          "number": 8,
+          "name": "Sat",
+          "detailedForecast": "W winds 20 to 25 kt, diminishing to 15 to 20 kt in the afternoon. Seas 2 to 4 ft."
         },
         {
           "number": 9,
@@ -60,71 +124,7 @@
         {
           "number": 11,
           "name": "Sun Night",
-          "detailedForecast": "SW winds 10 to 15 kt. Seas 1 foot or less."
-        }
-      ],
-      "forecast": null
-    },
-    "ANZ431": {
-      "source": "https://api.weather.gov/zones/forecast/ANZ431/forecast",
-      "ok": true,
-      "issued": "2026-11-24T16:01:00-05:00",
-      "updated": "2026-11-24T16:01:00-05:00",
-      "periods": [
-        {
-          "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "N winds 10 to 15 kt, becoming NE 15 to 20 kt late this evening and overnight. Seas 2 to 3 ft. Wave Detail: N 2 ft at 3 seconds and SE 1 foot at 9 seconds."
-        },
-        {
-          "number": 2,
-          "name": "Wed",
-          "detailedForecast": "NE winds 15 to 20 kt, becoming E 20 to 25 kt in the afternoon. Seas 2 to 4 ft. Wave Detail: NE 3 ft at 3 seconds and SE 1 foot at 8 seconds."
-        },
-        {
-          "number": 3,
-          "name": "Wed Night",
-          "detailedForecast": "E winds 25 to 30 kt, becoming NE 30 to 40 kt after midnight. Seas 4 to 6 ft. Wave Detail: E 5 ft at 4 seconds. Rain likely after midnight."
-        },
-        {
-          "number": 4,
-          "name": "Thu",
-          "detailedForecast": "E winds 35 to 45 kt with gusts up to 55 kt. Seas 5 to 8 ft. Wave Detail: SE 6 ft at 11 seconds and NE 5 ft at 5 seconds. Rain."
-        },
-        {
-          "number": 5,
-          "name": "Thu Night",
-          "detailedForecast": "SE winds 30 to 40 kt with gusts up to 50 kt, becoming SW 25 to 30 kt after midnight. Seas 4 to 6 ft. Wave Detail: SE 6 ft at 12 seconds and E 5 ft at 4 seconds. Rain likely in the evening."
-        },
-        {
-          "number": 6,
-          "name": "Fri",
-          "detailedForecast": "SW winds 25 to 30 kt. Seas 3 to 5 ft. Wave Detail: SW 4 ft at 4 seconds and SE 4 ft at 11 seconds."
-        },
-        {
-          "number": 7,
-          "name": "Fri Night",
-          "detailedForecast": "W winds 25 to 30 kt, diminishing to 20 to 25 kt after midnight. Seas 3 to 5 ft."
-        },
-        {
-          "number": 8,
-          "name": "Sat",
-          "detailedForecast": "W winds 20 to 25 kt, diminishing to 15 to 20 kt in the afternoon. Seas 2 to 4 ft."
-        },
-        {
-          "number": 9,
-          "name": "Sat Night",
-          "detailedForecast": "W winds 10 to 15 kt, diminishing to 5 to 10 kt after midnight. Seas around 2 ft."
-        },
-        {
-          "number": 10,
-          "name": "Sun",
-          "detailedForecast": "SW winds 5 to 10 kt. Seas 1 foot or less."
-        },
-        {
-          "number": 11,
-          "name": "Sun Night",
-          "detailedForecast": "SW winds 10 to 15 kt. Seas 1 foot or less, then around 2 ft after midnight."
+          "detailedForecast": "S winds 10 to 15 kt, becoming SW 15 to 20 kt after midnight. Seas around 2 ft. A chance of rain after midnight. Winds and seas higher in and near tstms."
         }
       ],
       "forecast": null
@@ -132,33 +132,33 @@
     "ANZ454": {
       "source": "https://api.weather.gov/zones/forecast/ANZ454/forecast",
       "ok": true,
-      "issued": "2026-11-24T16:01:00-05:00",
-      "updated": "2026-11-24T16:01:00-05:00",
+      "issued": "2026-11-25T01:58:00-05:00",
+      "updated": "2026-11-25T01:58:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
-          "detailedForecast": "NE winds 15 to 20 kt with gusts up to 25 kt. Seas 3 to 5 ft. Wave Detail: NE 4 ft at 5 seconds and NW 2 ft at 4 seconds."
+          "name": "Rest Of Tonight",
+          "detailedForecast": "NE winds 15 to 20 kt with gusts up to 25 kt. Seas 3 to 5 ft. Wave Detail: NE 4 ft at 5 seconds and SE 2 ft at 8 seconds."
         },
         {
           "number": 2,
           "name": "Wed",
-          "detailedForecast": "E winds 20 to 25 kt with gusts up to 30 kt. Seas 4 to 6 ft, building to 5 to 8 ft in the afternoon. Wave Detail: E 5 ft at 5 seconds and E 2 ft at 10 seconds, becoming E 7 ft at 6 seconds and SE 2 ft at 10 seconds."
+          "detailedForecast": "E winds around 20 kt with gusts up to 25 kt, becoming NE 25 to 30 kt in the afternoon. Seas 4 to 6 ft, building to 5 to 8 ft in the afternoon. Wave Detail: E 5 ft at 5 seconds and SE 2 ft at 10 seconds, becoming E 7 ft at 6 seconds and SE 2 ft at 10 seconds."
         },
         {
           "number": 3,
           "name": "Wed Night",
-          "detailedForecast": "E winds 25 to 30 kt, increasing to 30 to 40 kt with gusts up to 50 kt after midnight. Seas 7 to 10 ft, building to 9 to 13 ft after midnight. Wave Detail: E 8 ft at 7 seconds, becoming E 12 ft at 9 seconds. Rain likely after midnight."
+          "detailedForecast": "E winds 25 to 30 kt with gusts up to 40 kt, increasing to 35 to 45 kt with gusts up to 55 kt after midnight. Seas 7 to 10 ft, building to 9 to 13 ft after midnight. Wave Detail: E 9 ft at 7 seconds, becoming E 13 ft at 9 seconds. Rain after midnight."
         },
         {
           "number": 4,
           "name": "Thu",
-          "detailedForecast": "E winds 40 to 45 kt with gusts up to 60 kt. Seas 12 to 17 ft. Wave Detail: E 17 ft at 12 seconds. Rain."
+          "detailedForecast": "E winds 45 to 50 kt, diminishing to 35 to 45 kt in the afternoon. Seas 13 to 18 ft. Wave Detail: E 18 ft at 12 seconds. Rain. A chance of tstms in the afternoon."
         },
         {
           "number": 5,
           "name": "Thu Night",
-          "detailedForecast": "SE winds 30 to 40 kt with gusts up to 50 kt, becoming SW 25 to 30 kt after midnight. Seas 11 to 15 ft, subsiding to 9 to 12 ft after midnight. Wave Detail: E 15 ft at 12 seconds, becoming SE 12 ft at 12 seconds. Rain likely in the evening."
+          "detailedForecast": "SE winds 25 to 30 kt, becoming SW after midnight. Gusts up to 45 kt. Seas 11 to 15 ft, subsiding to 9 to 12 ft after midnight. Wave Detail: E 15 ft at 12 seconds, becoming E 12 ft at 12 seconds. Rain likely, mainly in the evening."
         },
         {
           "number": 6,
@@ -183,12 +183,12 @@
         {
           "number": 10,
           "name": "Sun",
-          "detailedForecast": "SW winds 10 to 15 kt. Seas 2 to 3 ft."
+          "detailedForecast": "W winds 5 to 10 kt, becoming SW 10 to 15 kt in the afternoon. Seas 2 to 3 ft."
         },
         {
           "number": 11,
           "name": "Sun Night",
-          "detailedForecast": "SW winds 10 to 15 kt. Seas 2 to 3 ft."
+          "detailedForecast": "SW winds 10 to 15 kt, increasing to 15 to 20 kt after midnight. Seas 2 to 4 ft. A chance of rain after midnight. Winds and seas higher in and near tstms."
         }
       ],
       "forecast": null
@@ -196,43 +196,43 @@
     "ANZ455": {
       "source": "https://api.weather.gov/zones/forecast/ANZ455/forecast",
       "ok": true,
-      "issued": "2026-11-24T16:01:00-05:00",
-      "updated": "2026-11-24T16:01:00-05:00",
+      "issued": "2026-11-25T01:58:00-05:00",
+      "updated": "2026-11-25T01:58:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "Tonight",
+          "name": "Rest Of Tonight",
           "detailedForecast": "NE winds 15 to 20 kt with gusts up to 25 kt. Seas 4 to 5 ft. Wave Detail: N 5 ft at 5 seconds and SE 2 ft at 9 seconds."
         },
         {
           "number": 2,
           "name": "Wed",
-          "detailedForecast": "E winds 20 to 25 kt with gusts up to 30 kt. Seas 5 to 6 ft, building to 5 to 8 ft in the afternoon. Wave Detail: N 6 ft at 5 seconds and SE 2 ft at 10 seconds, becoming E 7 ft at 7 seconds and SE 2 ft at 10 seconds."
+          "detailedForecast": "E winds around 20 kt with gusts up to 25 kt, becoming NE 25 to 30 kt in the afternoon. Seas 4 to 6 ft, building to 5 to 8 ft in the afternoon. Wave Detail: N 6 ft at 5 seconds and SE 2 ft at 10 seconds, becoming E 7 ft at 7 seconds and SE 2 ft at 10 seconds."
         },
         {
           "number": 3,
           "name": "Wed Night",
-          "detailedForecast": "E winds 25 to 30 kt, increasing to 30 to 40 kt with gusts up to 50 kt after midnight. Seas 8 to 11 ft, building to 10 to 14 ft after midnight. Wave Detail: E 8 ft at 8 seconds, becoming E 13 ft at 9 seconds. Rain after midnight."
+          "detailedForecast": "E winds 25 to 30 kt with gusts up to 40 kt, increasing to 35 to 45 kt with gusts up to 55 kt after midnight. Seas 7 to 10 ft, building to 10 to 14 ft after midnight. Wave Detail: E 9 ft at 7 seconds, becoming E 14 ft at 9 seconds. A chance of rain in the evening, then rain after midnight."
         },
         {
           "number": 4,
           "name": "Thu",
-          "detailedForecast": "E winds 35 to 45 kt with gusts up to 60 kt. Seas 13 to 18 ft. Wave Detail: E 18 ft at 12 seconds. Rain."
+          "detailedForecast": "E winds 35 to 45 kt with gusts up to 60 kt. Seas 14 to 19 ft. Wave Detail: E 19 ft at 12 seconds. Rain. A chance of tstms in the afternoon."
         },
         {
           "number": 5,
           "name": "Thu Night",
-          "detailedForecast": "S winds 25 to 35 kt with gusts up to 45 kt, becoming SW 25 to 30 kt after midnight. Seas 11 to 15 ft, subsiding to 9 to 12 ft after midnight. Wave Detail: E 15 ft at 12 seconds, becoming E 12 ft at 12 seconds. A chance of rain in the evening."
+          "detailedForecast": "S winds 25 to 30 kt with gusts up to 45 kt, becoming SW after midnight. Seas 11 to 15 ft, subsiding to 9 to 12 ft after midnight. Wave Detail: E 15 ft at 12 seconds, becoming E 12 ft at 12 seconds. Rain likely, mainly in the evening."
         },
         {
           "number": 6,
           "name": "Fri",
-          "detailedForecast": "SW winds 25 to 30 kt. Seas 8 to 11 ft. Wave Detail: SE 11 ft at 11 seconds."
+          "detailedForecast": "SW winds 25 to 30 kt. Seas 9 to 12 ft, subsiding to 7 to 10 ft in the afternoon. Wave Detail: SE 12 ft at 11 seconds, becoming S 10 ft at 10 seconds."
         },
         {
           "number": 7,
           "name": "Fri Night",
-          "detailedForecast": "W winds 25 to 30 kt, diminishing to 20 to 25 kt after midnight. Seas 6 to 9 ft, subsiding to 5 to 7 ft after midnight."
+          "detailedForecast": "W winds 25 to 30 kt, diminishing to 20 to 25 kt after midnight. Seas 5 to 8 ft."
         },
         {
           "number": 8,
@@ -242,17 +242,17 @@
         {
           "number": 9,
           "name": "Sat Night",
-          "detailedForecast": "W winds 10 to 15 kt. Seas 2 to 4 ft."
+          "detailedForecast": "W winds 10 to 15 kt, diminishing to 5 to 10 kt after midnight. Seas 2 to 3 ft."
         },
         {
           "number": 10,
           "name": "Sun",
-          "detailedForecast": "SW winds 10 to 15 kt. Seas 2 to 3 ft."
+          "detailedForecast": "W winds 5 to 10 kt, becoming SW 10 to 15 kt in the afternoon. Seas 2 to 3 ft."
         },
         {
           "number": 11,
           "name": "Sun Night",
-          "detailedForecast": "SW winds 10 to 15 kt. Seas 2 to 3 ft."
+          "detailedForecast": "SW winds 10 to 15 kt, increasing to 15 to 20 kt after midnight. Seas 2 to 4 ft. A chance of rain after midnight. Winds and seas higher in and near tstms."
         }
       ],
       "forecast": null
@@ -260,56 +260,51 @@
     "ANZ630": {
       "source": "https://api.weather.gov/zones/forecast/ANZ630/forecast",
       "ok": true,
-      "issued": "2026-11-24T15:00:00-05:00",
-      "updated": "2026-11-24T15:00:00-05:00",
+      "issued": "2026-11-25T01:07:00-05:00",
+      "updated": "2026-11-25T01:07:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "through 7 Pm",
-          "detailedForecast": "N winds 15 to 20 kt with gusts up to 25 kt. Waves 3 to 4 ft, occasionally to 5 ft."
-        },
-        {
-          "number": 2,
-          "name": "Tonight",
+          "name": "Rest Of Tonight",
           "detailedForecast": "NE winds 15 to 20 kt with gusts up to 25 kt. Waves 2 to 3 ft."
         },
         {
-          "number": 3,
+          "number": 2,
           "name": "Wed",
           "detailedForecast": "NE winds 15 to 20 kt, increasing to 20 to 25 kt in the afternoon. Gusts up to 30 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
-          "number": 4,
+          "number": 3,
           "name": "Wed Night",
           "detailedForecast": "NE winds 25 to 30 kt with gusts up to 35 kt, increasing to 30 to 35 kt with gusts up to 45 kt after midnight. Waves 4 to 5 ft, occasionally to 6 ft. Rain."
         },
         {
-          "number": 5,
+          "number": 4,
           "name": "Thu",
           "detailedForecast": "E winds 35 to 40 kt with gusts up to 50 kt. Waves 4 to 5 ft, occasionally to 6 ft. Rain in the morning, then showers likely in the afternoon."
         },
         {
-          "number": 6,
+          "number": 5,
           "name": "Thu Night",
           "detailedForecast": "SW winds 20 to 25 kt with gusts up to 30 kt. Waves 4 to 5 ft, occasionally to 6 ft. A chance of showers in the evening."
         },
         {
-          "number": 7,
+          "number": 6,
           "name": "Fri",
           "detailedForecast": "SW winds 20 to 25 kt with gusts up to 30 kt. Waves 4 to 5 ft, occasionally to 6 ft."
         },
         {
-          "number": 8,
+          "number": 7,
           "name": "Fri Night",
           "detailedForecast": "W winds 25 to 30 kt with gusts up to 35 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
-          "number": 9,
+          "number": 8,
           "name": "Sat",
           "detailedForecast": "W winds 20 to 25 kt, diminishing to 15 to 20 kt in the afternoon. Waves 2 to 3 ft."
         },
         {
-          "number": 10,
+          "number": 9,
           "name": "Sat Night",
           "detailedForecast": "SW winds 10 to 15 kt. Waves 1 to 2 ft."
         }
@@ -319,56 +314,51 @@
     "ANZ631": {
       "source": "https://api.weather.gov/zones/forecast/ANZ631/forecast",
       "ok": true,
-      "issued": "2026-11-24T15:00:00-05:00",
-      "updated": "2026-11-24T15:00:00-05:00",
+      "issued": "2026-11-25T01:07:00-05:00",
+      "updated": "2026-11-25T01:07:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "through 7 Pm",
-          "detailedForecast": "N winds 15 to 20 kt with gusts up to 25 kt. Waves around 4 ft, occasionally to 5 ft."
-        },
-        {
-          "number": 2,
-          "name": "Tonight",
+          "name": "Rest Of Tonight",
           "detailedForecast": "NE winds 15 to 20 kt with gusts up to 25 kt. Waves around 3 ft."
         },
         {
-          "number": 3,
+          "number": 2,
           "name": "Wed",
           "detailedForecast": "NE winds 15 to 20 kt, increasing to 25 to 30 kt in the afternoon. Gusts up to 35 kt. Waves 4 to 5 ft, occasionally to 6 ft."
         },
         {
-          "number": 4,
+          "number": 3,
           "name": "Wed Night",
           "detailedForecast": "NE winds 25 to 30 kt with gusts up to 40 kt, increasing to 30 to 35 kt with gusts up to 50 kt after midnight. Waves 5 to 6 ft, occasionally to 8 ft. Rain."
         },
         {
-          "number": 5,
+          "number": 4,
           "name": "Thu",
           "detailedForecast": "E winds 35 to 40 kt with gusts up to 50 kt, becoming SE 25 to 30 kt with gusts up to 40 kt in the afternoon. Waves 5 to 6 ft, occasionally to 8 ft. Rain in the morning, then showers likely in the afternoon."
         },
         {
-          "number": 6,
+          "number": 5,
           "name": "Thu Night",
           "detailedForecast": "SW winds 15 to 20 kt, increasing to 20 to 25 kt after midnight. Gusts up to 30 kt. Waves 4 to 5 ft, occasionally to 6 ft."
         },
         {
-          "number": 7,
+          "number": 6,
           "name": "Fri",
           "detailedForecast": "SW winds 20 to 25 kt with gusts up to 30 kt. Waves 4 to 5 ft, occasionally to 6 ft."
         },
         {
-          "number": 8,
+          "number": 7,
           "name": "Fri Night",
           "detailedForecast": "W winds 20 to 25 kt with gusts up to 30 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
-          "number": 9,
+          "number": 8,
           "name": "Sat",
           "detailedForecast": "W winds 15 to 20 kt, becoming SW 10 to 15 kt in the afternoon. Gusts up to 25 kt. Waves 2 to 3 ft."
         },
         {
-          "number": 10,
+          "number": 9,
           "name": "Sat Night",
           "detailedForecast": "SW winds 10 to 15 kt. Waves 1 to 2 ft."
         }
@@ -378,58 +368,53 @@
     "ANZ632": {
       "source": "https://api.weather.gov/zones/forecast/ANZ632/forecast",
       "ok": true,
-      "issued": "2026-11-24T15:00:00-05:00",
-      "updated": "2026-11-24T15:00:00-05:00",
+      "issued": "2026-11-25T01:07:00-05:00",
+      "updated": "2026-11-25T01:07:00-05:00",
       "periods": [
         {
           "number": 1,
-          "name": "through 7 Pm",
-          "detailedForecast": "N winds 15 to 20 kt with gusts up to 25 kt. Waves 3 to 4 ft, occasionally to 5 ft."
+          "name": "Rest Of Tonight",
+          "detailedForecast": "NE winds 20 to 25 kt with gusts up to 30 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
           "number": 2,
-          "name": "Tonight",
-          "detailedForecast": "NE winds 15 to 20 kt with gusts up to 30 kt. Waves 3 to 4 ft, occasionally to 5 ft."
-        },
-        {
-          "number": 3,
           "name": "Wed",
           "detailedForecast": "NE winds 20 to 25 kt, increasing to 25 to 30 kt in the afternoon. Gusts up to 35 kt. Waves 4 to 5 ft, occasionally to 6 ft."
         },
         {
-          "number": 4,
+          "number": 3,
           "name": "Wed Night",
           "detailedForecast": "NE winds 35 to 40 kt. Gusts up to 50 kt after midnight. Waves 6 to 7 ft, occasionally to 9 ft. Rain."
         },
         {
-          "number": 5,
+          "number": 4,
           "name": "Thu",
           "detailedForecast": "E winds 35 to 40 kt with gusts up to 50 kt, becoming SE 25 to 30 kt with gusts up to 40 kt in the afternoon. Waves 6 to 8 ft, occasionally to 10 ft. Rain in the morning, then showers likely in the afternoon."
         },
         {
-          "number": 6,
+          "number": 5,
           "name": "Thu Night",
           "detailedForecast": "SW winds 15 to 20 kt, increasing to 20 to 25 kt after midnight. Gusts up to 30 kt. Waves 5 to 6 ft, occasionally to 8 ft."
         },
         {
-          "number": 7,
+          "number": 6,
           "name": "Fri",
           "detailedForecast": "SW winds 20 to 25 kt with gusts up to 30 kt. Waves 5 to 6 ft, occasionally to 8 ft."
         },
         {
-          "number": 8,
+          "number": 7,
           "name": "Fri Night",
           "detailedForecast": "W winds 20 to 25 kt with gusts up to 30 kt. Waves 3 to 4 ft, occasionally to 5 ft."
         },
         {
-          "number": 9,
+          "number": 8,
           "name": "Sat",
           "detailedForecast": "W winds 15 to 20 kt with gusts up to 25 kt. Waves 2 to 3 ft."
         },
         {
-          "number": 10,
+          "number": 9,
           "name": "Sat Night",
-          "detailedForecast": "SW winds 10 to 15 kt. Waves 1 to 2 ft."
+          "detailedForecast": "SW winds 10 to 15 kt. Waves 1 to 2 ft. Winds and waves higher in and near tstms."
         }
       ],
       "forecast": null
@@ -441,37 +426,44 @@
     "items": [
       {
         "event": "Coastal Flood Warning",
-        "headline": "Coastal Flood Warning issued November 24 at 2:30PM EST until November 27 at 3:00AM EST by NWS Mount Holly NJ",
+        "headline": "Coastal Flood Warning issued November 25 at 3:20AM EST until November 27 at 3:00AM EST by NWS Mount Holly NJ",
         "area": "Kent; Cumberland",
-        "expires": "2026-11-25T03:30:00-05:00",
+        "expires": "2026-11-25T16:00:00-05:00",
         "url": "http://www.weather.gov"
       },
       {
         "event": "Coastal Flood Warning",
-        "headline": "Coastal Flood Warning issued November 24 at 2:30PM EST until November 27 at 4:00AM EST by NWS Mount Holly NJ",
+        "headline": "Coastal Flood Warning issued November 25 at 3:20AM EST until November 27 at 4:00AM EST by NWS Mount Holly NJ",
         "area": "New Castle; Salem",
-        "expires": "2026-11-25T03:30:00-05:00",
+        "expires": "2026-11-25T16:00:00-05:00",
         "url": "http://www.weather.gov"
       },
       {
         "event": "Coastal Flood Warning",
-        "headline": "Coastal Flood Warning issued November 24 at 2:30PM EST until November 27 at 3:00PM EST by NWS Mount Holly NJ",
+        "headline": "Coastal Flood Warning issued November 25 at 3:20AM EST until November 27 at 3:00PM EST by NWS Mount Holly NJ",
         "area": "Inland Sussex; Delaware Beaches",
-        "expires": "2026-11-25T03:30:00-05:00",
+        "expires": "2026-11-25T16:00:00-05:00",
         "url": "http://www.weather.gov"
       },
       {
         "event": "High Wind Warning",
-        "headline": "High Wind Warning issued November 24 at 1:51PM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
-        "area": "Kent; Inland Sussex; Delaware Beaches; Cumberland; Atlantic; Cape May; Atlantic Coastal Cape May; Coastal Atlantic",
-        "expires": "2026-11-25T03:00:00-05:00",
+        "headline": "High Wind Warning issued November 25 at 1:34AM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
+        "area": "Delaware Beaches; Atlantic Coastal Cape May; Coastal Atlantic",
+        "expires": "2026-11-25T15:15:00-05:00",
         "url": "http://www.weather.gov"
       },
       {
-        "event": "High Wind Watch",
-        "headline": "High Wind Watch issued November 24 at 1:51PM EST until November 27 at 1:00AM EST by NWS Mount Holly NJ",
+        "event": "High Wind Warning",
+        "headline": "High Wind Warning issued November 25 at 1:34AM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
+        "area": "Kent; Inland Sussex; Cumberland; Atlantic; Cape May",
+        "expires": "2026-11-25T15:15:00-05:00",
+        "url": "http://www.weather.gov"
+      },
+      {
+        "event": "High Wind Warning",
+        "headline": "High Wind Warning issued November 25 at 1:34AM EST until November 27 at 1:00AM EST by NWS Mount Holly NJ",
         "area": "New Castle; Hunterdon; Somerset; Middlesex; Mercer; Salem; Gloucester; Camden; Northwestern Burlington; Delaware; Philadelphia; Western Chester; Eastern Chester; Western Montgomery; Eastern Montgomery; Upper Bucks; Lower Bucks",
-        "expires": "2026-11-25T03:00:00-05:00",
+        "expires": "2026-11-25T15:15:00-05:00",
         "url": "http://www.weather.gov"
       }
     ]
@@ -484,7 +476,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 24 23 20  30  8.0 10.0    MM    MM    MM  MM 1031.4  10.2    MM   0.8   MM   MM    MM"
+      "latest": "2026 11 25 06 10  50 10.0 13.0    MM    MM    MM  MM 1033.8  10.7    MM   2.9   MM   MM    MM"
     },
     "44014": {
       "ok": true,
@@ -493,7 +485,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 24 23 20  MM   MM   MM   3.0     8   5.9  24     MM    MM    MM    MM   MM   MM    MM"
+      "latest": "2026 11 25 06 10  MM   MM   MM    MM    MM    MM  MM     MM    MM  23.3    MM   MM   MM    MM"
     },
     "44025": {
       "ok": true,
@@ -502,7 +494,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 24 23 10  MM   MM   MM   1.1     8   4.3 135     MM    MM  14.7    MM   MM   MM    MM"
+      "latest": "2026 11 25 05 10  MM   MM   MM   1.1     4   4.0  34     MM    MM    MM    MM   MM   MM    MM"
     },
     "LWSD1": {
       "ok": true,
@@ -511,7 +503,7 @@
         "#YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE",
         "#yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft"
       ],
-      "latest": "2026 11 24 23 00  20  7.2  9.3    MM    MM    MM  MM 1031.8  10.2  12.5    MM   MM +2.1    MM"
+      "latest": "2026 11 25 07 48  40 10.3 11.8    MM    MM    MM  MM 1036.0    MM  10.5    MM   MM   MM    MM"
     }
   },
   "marine_alerts": {
@@ -520,9 +512,16 @@
       "items": [
         {
           "event": "Storm Warning",
-          "headline": "Storm Warning issued November 24 at 1:26PM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
+          "headline": "Storm Warning issued November 25 at 2:02AM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
           "severity": "Severe",
-          "expires": "2026-11-25T02:30:00-05:00",
+          "expires": "2026-11-25T15:00:00-05:00",
+          "url": "http://www.weather.gov"
+        },
+        {
+          "event": "Small Craft Advisory",
+          "headline": "Small Craft Advisory issued November 25 at 2:02AM EST until November 25 at 6:00PM EST by NWS Mount Holly NJ",
+          "severity": "Minor",
+          "expires": "2026-11-25T15:00:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -533,9 +532,16 @@
       "items": [
         {
           "event": "Storm Warning",
-          "headline": "Storm Warning issued November 24 at 1:26PM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
+          "headline": "Storm Warning issued November 25 at 2:02AM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
           "severity": "Severe",
-          "expires": "2026-11-25T02:30:00-05:00",
+          "expires": "2026-11-25T15:00:00-05:00",
+          "url": "http://www.weather.gov"
+        },
+        {
+          "event": "Small Craft Advisory",
+          "headline": "Small Craft Advisory issued November 25 at 2:02AM EST until November 25 at 6:00PM EST by NWS Mount Holly NJ",
+          "severity": "Minor",
+          "expires": "2026-11-25T15:00:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -545,17 +551,17 @@
       "ok": true,
       "items": [
         {
-          "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 24 at 1:26PM EST until November 25 at 6:00PM EST by NWS Mount Holly NJ",
-          "severity": "Minor",
-          "expires": "2026-11-25T02:30:00-05:00",
+          "event": "Storm Warning",
+          "headline": "Storm Warning issued November 25 at 2:02AM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
+          "severity": "Severe",
+          "expires": "2026-11-25T15:00:00-05:00",
           "url": "http://www.weather.gov"
         },
         {
-          "event": "Storm Warning",
-          "headline": "Storm Warning issued November 24 at 1:26PM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
-          "severity": "Severe",
-          "expires": "2026-11-25T02:30:00-05:00",
+          "event": "Small Craft Advisory",
+          "headline": "Small Craft Advisory issued November 25 at 2:02AM EST until November 25 at 6:00PM EST by NWS Mount Holly NJ",
+          "severity": "Minor",
+          "expires": "2026-11-25T15:00:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -565,17 +571,17 @@
       "ok": true,
       "items": [
         {
-          "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 24 at 1:26PM EST until November 25 at 6:00PM EST by NWS Mount Holly NJ",
-          "severity": "Minor",
-          "expires": "2026-11-25T02:30:00-05:00",
+          "event": "Storm Warning",
+          "headline": "Storm Warning issued November 25 at 2:02AM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
+          "severity": "Severe",
+          "expires": "2026-11-25T15:00:00-05:00",
           "url": "http://www.weather.gov"
         },
         {
-          "event": "Storm Warning",
-          "headline": "Storm Warning issued November 24 at 1:26PM EST until November 26 at 10:00PM EST by NWS Mount Holly NJ",
-          "severity": "Severe",
-          "expires": "2026-11-25T02:30:00-05:00",
+          "event": "Small Craft Advisory",
+          "headline": "Small Craft Advisory issued November 25 at 2:02AM EST until November 25 at 6:00PM EST by NWS Mount Holly NJ",
+          "severity": "Minor",
+          "expires": "2026-11-25T15:00:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -585,17 +591,17 @@
       "ok": true,
       "items": [
         {
-          "event": "Storm Warning",
-          "headline": "Storm Warning issued November 24 at 2:07PM EST until November 26 at 4:00PM EST by NWS Wakefield VA",
-          "severity": "Severe",
-          "expires": "2026-11-24T22:15:00-05:00",
+          "event": "Small Craft Advisory",
+          "headline": "Small Craft Advisory issued November 25 at 2:09AM EST until November 25 at 7:00PM EST by NWS Wakefield VA",
+          "severity": "Minor",
+          "expires": "2026-11-25T10:15:00-05:00",
           "url": "http://www.weather.gov"
         },
         {
-          "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 24 at 2:07PM EST until November 25 at 7:00PM EST by NWS Wakefield VA",
-          "severity": "Minor",
-          "expires": "2026-11-24T22:15:00-05:00",
+          "event": "Storm Warning",
+          "headline": "Storm Warning issued November 25 at 2:09AM EST until November 26 at 4:00PM EST by NWS Wakefield VA",
+          "severity": "Severe",
+          "expires": "2026-11-25T10:15:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -605,17 +611,17 @@
       "ok": true,
       "items": [
         {
-          "event": "Storm Warning",
-          "headline": "Storm Warning issued November 24 at 2:07PM EST until November 26 at 4:00PM EST by NWS Wakefield VA",
-          "severity": "Severe",
-          "expires": "2026-11-24T22:15:00-05:00",
+          "event": "Small Craft Advisory",
+          "headline": "Small Craft Advisory issued November 25 at 2:09AM EST until November 25 at 7:00PM EST by NWS Wakefield VA",
+          "severity": "Minor",
+          "expires": "2026-11-25T10:15:00-05:00",
           "url": "http://www.weather.gov"
         },
         {
-          "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 24 at 2:07PM EST until November 25 at 7:00PM EST by NWS Wakefield VA",
-          "severity": "Minor",
-          "expires": "2026-11-24T22:15:00-05:00",
+          "event": "Storm Warning",
+          "headline": "Storm Warning issued November 25 at 2:09AM EST until November 26 at 4:00PM EST by NWS Wakefield VA",
+          "severity": "Severe",
+          "expires": "2026-11-25T10:15:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
@@ -625,17 +631,17 @@
       "ok": true,
       "items": [
         {
-          "event": "Small Craft Advisory",
-          "headline": "Small Craft Advisory issued November 24 at 2:07PM EST until November 25 at 7:00PM EST by NWS Wakefield VA",
-          "severity": "Minor",
-          "expires": "2026-11-24T22:15:00-05:00",
+          "event": "Storm Warning",
+          "headline": "Storm Warning issued November 25 at 2:09AM EST until November 26 at 4:00PM EST by NWS Wakefield VA",
+          "severity": "Severe",
+          "expires": "2026-11-25T10:15:00-05:00",
           "url": "http://www.weather.gov"
         },
         {
-          "event": "Storm Warning",
-          "headline": "Storm Warning issued November 24 at 2:07PM EST until November 26 at 4:00PM EST by NWS Wakefield VA",
-          "severity": "Severe",
-          "expires": "2026-11-24T22:15:00-05:00",
+          "event": "Small Craft Advisory",
+          "headline": "Small Craft Advisory issued November 25 at 2:09AM EST until November 25 at 7:00PM EST by NWS Wakefield VA",
+          "severity": "Minor",
+          "expires": "2026-11-25T10:15:00-05:00",
           "url": "http://www.weather.gov"
         }
       ],
